@@ -11,9 +11,11 @@
 
 - 🌱 I’m currently learning **React.js,redux**
 
+- 👨‍💻 Portfolio [https://verdant-monstera-508a15.netlify.app/](https://verdant-monstera-508a15.netlify.app/)
+
 - 💬 Ask me about **Javascript,React**
 
-- 📄 PortFolio [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📫Contact **prakashorious@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
